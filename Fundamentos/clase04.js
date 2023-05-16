@@ -169,4 +169,4 @@
 //     price
 // }
 
-// console.log(newProduct);
+//console.log("Hola");
